@@ -39,10 +39,10 @@
 		607FACE51AFB9204008FA782 /* MINDownloader_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MINDownloader_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		71AB64AFA5F132F58EB4F19C /* MINDownloader.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MINDownloader.podspec; path = ../MINDownloader.podspec; sourceTree = "<group>"; };
+		71AB64AFA5F132F58EB4F19C /* MINDownloader.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MINDownloader.podspec; path = ../MINDownloader.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97091D828C47118D2D61AFCA /* Pods-MINDownloader_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MINDownloader_Example.release.xcconfig"; path = "Target Support Files/Pods-MINDownloader_Example/Pods-MINDownloader_Example.release.xcconfig"; sourceTree = "<group>"; };
-		BF4F62D3C0F4668FDAD90E3F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		DCF9A96D0A3360A02E7C563F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BF4F62D3C0F4668FDAD90E3F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		DCF9A96D0A3360A02E7C563F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,7 +148,6 @@
 				4604AD4FCD3572E7689B3A8B /* Pods-MINDownloader_Example.debug.xcconfig */,
 				97091D828C47118D2D61AFCA /* Pods-MINDownloader_Example.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -218,6 +217,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
