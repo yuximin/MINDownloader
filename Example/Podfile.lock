@@ -1,0 +1,16 @@
+PODS:
+  - MINDownloader (0.1.0)
+
+DEPENDENCIES:
+  - MINDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  MINDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MINDownloader: bf91a9683b74fecaa9d6eba198463bad3e6fb938
+
+PODFILE CHECKSUM: 1c7606602b91d5e1167ad7301d04548e75728e68
+
+COCOAPODS: 1.11.3
