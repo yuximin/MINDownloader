@@ -1,10 +1,5 @@
 # MINDownloader
 
-[![CI Status](https://img.shields.io/travis/yuximin/MINDownloader.svg?style=flat)](https://travis-ci.org/yuximin/MINDownloader)
-[![Version](https://img.shields.io/cocoapods/v/MINDownloader.svg?style=flat)](https://cocoapods.org/pods/MINDownloader)
-[![License](https://img.shields.io/cocoapods/l/MINDownloader.svg?style=flat)](https://cocoapods.org/pods/MINDownloader)
-[![Platform](https://img.shields.io/cocoapods/p/MINDownloader.svg?style=flat)](https://cocoapods.org/pods/MINDownloader)
-
 iOS 通用下载模块
 
 ## Example
